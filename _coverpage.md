@@ -1,12 +1,12 @@
 ![logo](_media/icon.svg)
 
-# docsify
+# 胖蒜
 
-> A magical documentation site generator.
+> 探索个人支付收款解决方案
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+* 支持个人支付宝微信收款
+* 异步回调消息通知
+* 官方正规
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+[TePay](https://doc.pangsuan.com/#/tepay/)
+[TePass](https://doc.pangsuan.com/#/tepass/)
