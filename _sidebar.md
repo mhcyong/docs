@@ -1,3 +1,3 @@
 * [首页](README)
-* [TePay](tepay)
-* [TePass](tepass)
+* [TePay](/tepay/)
+* [TePass](/tepass/)
