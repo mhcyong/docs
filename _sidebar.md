@@ -1,4 +1,4 @@
-- [首页](README)
+- [首页](https://doc.pangsuan.com/)
 
 - 开始使用
   - [TePay](/tepay/)
