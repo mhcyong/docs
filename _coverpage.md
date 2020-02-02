@@ -1,4 +1,3 @@
-![logo](_media/icon.svg)
 
 # 胖蒜
 
