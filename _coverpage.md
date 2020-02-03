@@ -7,5 +7,5 @@
 * 异步回调消息通知
 * 官方正规渠道
 
-[TePay](https://doc.pangsuan.com/#/tepay/)
-[TePass](https://doc.pangsuan.com/#/tepass/)
+[TePay](/tepay?id=插件介绍)
+[TePass](/tepass?id=插件介绍)
