@@ -16,3 +16,8 @@
   - [配置环境要求](/tepass?id=配置环境要求)
   - [操作说明](/tepass?id=操作说明)
   - <li ><a style="color:red" href="tepass?id=常见问题">常见问题</a></li>
+
+  
+- 其它说明
+  - [开发日志](/others?id=开发日志)
+  - [版权说明](/others?id=版权说明)
