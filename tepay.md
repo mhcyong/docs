@@ -1,6 +1,6 @@
 # 插件介绍
 
-![TePay](/media/tepay.png)  
+![TePay](/media/TePay.png)  
 
 # 配置环境要求  
 

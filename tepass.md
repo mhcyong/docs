@@ -1,6 +1,6 @@
 # 插件介绍
 
-![TePass](/media/tepass.png)  
+![TePass](/media/TePass.png)  
 
 # 配置环境要求  
 
