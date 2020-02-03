@@ -1,3 +1,0 @@
-# TePass
-
-> An awesome project.

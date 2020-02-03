@@ -1,3 +1,0 @@
-# TePay
-
-> An awesome project.
