@@ -8,7 +8,7 @@
   - [插件介绍](/tepay?id=插件介绍)
   - [配置环境要求](/tepay?id=配置环境要求)
   - [效果演示](/tepay?id=效果演示)
-  - [操作说明](/tepay?id=操作说明)
+  - [后台操作说明](/tepay?id=后台操作说明)
   - <li ><a style="color:red" href="tepay?id=常见问题">常见问题</a></li>
   
   
@@ -16,7 +16,7 @@
   - [插件介绍](/tepass?id=插件介绍)
   - [配置环境要求](/tepass?id=配置环境要求)
   - [效果演示](/tepass?id=效果演示)
-  - [操作说明](/tepass?id=操作说明)
+  - [后台操作说明](/tepass?id=后台操作说明)
   - <li ><a style="color:red" href="tepass?id=常见问题">常见问题</a></li>
 
   
