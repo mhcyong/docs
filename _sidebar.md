@@ -10,6 +10,8 @@
   - [效果演示](/tepay?id=效果演示)
   - [后台操作说明](/tepay?id=后台操作说明)
   - <li ><a style="color:red" href="tepay?id=常见问题">常见问题</a></li>
+  - [开发日志](/tepay?id=开发日志)
+  - [感谢](/tepay?id=感谢)
   
   
 - TePass
@@ -18,6 +20,8 @@
   - [效果演示](/tepass?id=效果演示)
   - [后台操作说明](/tepass?id=后台操作说明)
   - <li ><a style="color:red" href="tepass?id=常见问题">常见问题</a></li>
+  - [开发日志](/tepass?id=开发日志)
+  - [感谢](/tepass?id=感谢)
 
   
 - 其它说明
